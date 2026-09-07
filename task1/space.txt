@@ -1,0 +1,17 @@
+Файловая система Размер Использовано  Дост Использовано% Cмонтировано в
+udev               3,8G            0  3,8G            0% /dev
+tmpfs              784M          15M  769M            2% /run
+/dev/sda2           19G          13G  5,0G           72% /
+tmpfs              3,9G         7,4M  3,9G            1% /dev/shm
+tmpfs              5,0M         4,0K  5,0M            1% /run/lock
+tmpfs              3,9G            0  3,9G            0% /sys/fs/cgroup
+/dev/loop0          56M          56M     0          100% /snap/core18/2829
+/dev/loop1         686M         686M     0          100% /snap/pycharm-community/408
+/dev/sda4          114G         3,6G  104G            4% /home
+/dev/sda1          511M         178M  334M           35% /boot/efi
+/dev/sda5          139G         102G   38G           73% /windows
+tmpfs              784M            0  784M            0% /run/user/999
+tmpfs              784M          12K  784M            1% /run/user/1001
+Файловая система Размер Использовано  Дост Использовано% Cмонтировано в
+/dev/sda4          114G         3,6G  104G            4% /home
+./task1/data/processes.txt
